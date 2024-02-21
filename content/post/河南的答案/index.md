@@ -2,7 +2,7 @@
 title: "河南的答案"
 description: 
 date: 2024-02-21T03:38:14Z
-image: 
+image: image1.jpeg
 math: 
 license: 
 hidden: false
