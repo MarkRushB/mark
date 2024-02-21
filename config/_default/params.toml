@@ -17,7 +17,7 @@ emoji = "💬"
 subtitle = "废话练习"
 
 [sidebar.avatar]
-enabled = true
+enabled = false
 local = true
 src = "img/avatar.png"
 
