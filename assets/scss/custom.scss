@@ -1,3 +1,20 @@
 /*
     You can add your own custom styles here.
 */
+
+ .article-category a {
+    background: #445d4c !important;
+    color: #fff;
+}
+
+.article-list {
+    gap: 25px;
+}
+
+.memo .article-content {
+    padding: 0;
+}
+
+.article-details .article-content {
+    padding: 0;
+}

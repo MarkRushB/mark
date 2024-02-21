@@ -1,6 +1,5 @@
 ---
-description: memo
-slug: hello-world
+slug: 3
 date: 2022-03-06 00:00:00+0000
 categories:
     - memo
