@@ -11,4 +11,4 @@ categories:
     - memo
 --- 
 小可生病了
-{{< video "Kettle.MOV" >}}
+{{< video "Kettle.mp4" >}}
