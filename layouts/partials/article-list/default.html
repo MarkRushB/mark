@@ -10,7 +10,9 @@
 <article class="{{ if $image.exists }}has-image{{ end }}">
      
     {{ if $isMemo }}
-        {{ partial "article/components/memo" . }} 
+        <article class="main-article">
+            {{ partial "article/components/memo" . }} 
+        </article> 
     {{ else }}
         {{ partial "article/components/header" . }}
     {{ end }}
