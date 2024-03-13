@@ -8,11 +8,10 @@
         {{ end }}
     </header>
     {{ end }} -->
-
     <div class="memo">
-        <a href="{{ .RelPermalink }}">
+        <!-- <a href="{{ .RelPermalink }}"> -->
             {{ partial "article/components/content" . }}
-        </a>
+        <!-- </a> -->
     </div>
 
     {{ $showReadingTime := .Params.readingTime | default (.Site.Params.article.readingTime) }}
