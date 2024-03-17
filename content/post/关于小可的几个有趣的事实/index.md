@@ -1,14 +1,13 @@
 ---
 title: "关于小可的几个有趣的事实"
 date: 2024-02-21T03:32:20Z
-image: image1.jpg
 math: 
 license: 
 hidden: false
 comments: true
 draft: false
 categories:
-    - 废话练习
+    - memo
 --- 
 
 关于小可的几个有趣的事实：
@@ -21,3 +20,4 @@ categories:
 - 小可一坨屎花掉了$4500
 - 小可住院期间的病友是只很mean的黑猫，连医生都不喜欢他
 
+![Kettle](image1.jpg)
