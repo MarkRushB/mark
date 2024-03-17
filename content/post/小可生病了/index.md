@@ -14,4 +14,4 @@ categories:
 - 小可一坨屎花掉了$4500
 - 小可住院期间的病友是只很mean的黑猫，连医生都不喜欢他
 
-{{< video src="./movie1.MOV" >}}
+{{< video src="https://mark-1325089474.cos.na-ashburn.myqcloud.com/movie1.MOV" >}}
